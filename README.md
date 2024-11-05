@@ -23,7 +23,7 @@ drawable-xxxhdpi/app_icon.png为图标4，把原来的删掉，自己上传一�
 
 4、修改内置源地址
 
-第114行app/src/main/java/com/github/tvbox/osc/api/ApiConfig.java
+第130行app/src/main/java/com/github/tvbox/osc/api/ApiConfig.java
 
        
 
